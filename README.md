@@ -4,7 +4,7 @@ Wordle game. Made using ReactJS
 This website is developed only for Educational/Learning purpose
 
 # Run
-[https://ssubodh-wordle-clone-js.netlify.app/](https://wordle-clone-bysubodh.netlify.app/#)
+[https://quiet-elf-93f698.netlify.app/)
 
 <br>
 
