@@ -3,7 +3,7 @@ Wordle game. Made using ReactJS
 
 
 # Run
-[https://quiet-elf-93f698.netlify.app/)
+[https://clone-game-app.netlify.app/]
 
 <br>
 
